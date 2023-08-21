@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prodipta Pal
 - 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning sql
+- 🌱 I’m currently learning front-end development
 - 📫 How to reach me prodiptapal18@gmail.com
 
 <!---
